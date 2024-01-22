@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643202992 source:c:\users\habib\onedrive\desktop\second year\design and implemntation of software eng\coursework4\lab_4\main.cpp
+	<iostream>
+	"interval.h"
+
+1643279479 c:\users\habib\onedrive\desktop\second year\design and implemntation of software eng\coursework4\lab_4\interval.h
+	<iostream>
+
+1643279479 source:c:\users\habib\onedrive\desktop\second year\design and implemntation of software eng\coursework4\lab_4\interval.cpp
+	"interval.h"
+	<iostream>
+
+1642431763 c:\users\habib\onedrive\desktop\second year\design and implemntation of software eng\coursework4\lab_4\interval.cpp
+	"interval.h"
+	<iostream>
+
